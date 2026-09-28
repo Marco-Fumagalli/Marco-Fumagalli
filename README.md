@@ -1,17 +1,22 @@
 # Hi, I'm Marco 👋
 
-MSc student in Management Engineering (Financial Engineering track) at Politecnico di Milano, working on my thesis on realized volatility forecasting for tail-risk measures (VaR / Expected Shortfall).
+MSc student in Management Engineering (Financial Engineering track) at Politecnico di Milano. I work at the intersection of **statistics, econometrics, and quantitative finance** — turning data into models that explain risk and forecast uncertainty.
 
-I'm building a solid foundation in **quantitative finance**, **econometrics**, and **Python programming**, aiming for roles in quant research, credit risk, or fintech.
+Currently writing my thesis on **realized volatility forecasting** with high-frequency data, applied to tail-risk measures (VaR / Expected Shortfall). Building my technical foundation in **Python** to support this work and beyond.
+
+**Roles I'm exploring:** Quantitative Analyst/Researcher · Risk Analyst · Econometrician / Applied Statistician · Data Scientist (quantitative/statistical focus) · Research roles in financial economics
 
 ## What I'm working on
-- Master's thesis: realized volatility forecasting with high-frequency data
-- Learning Python for quantitative finance (numpy, pandas, statsmodels)
+- Master's thesis: realized volatility forecasting with high-frequency data, for VaR / Expected Shortfall estimation
+- Applying econometric methods (time series models, GARCH-family models, statistical inference) to financial data
+- Learning Python for quantitative work (numpy, pandas, statsmodels)
 
-## Skills
-Financial Econometrics · Statistics · Time Series Analysis · Portfolio Theory · Python (learning) · Git
+## Background
+- Financial Econometrics · Applied Statistics · Time Series Analysis · Derivatives Pricing and Hedging · Portfolio Theory · Risk Measurement
+- Python (building up from the basics) · Git
 
 ## Featured projects
 *(coming soon)*
 
 ## Get in touch
+[LinkedIn](www.linkedin.com/in/marco-fumagalli-link02)

@@ -19,4 +19,4 @@ Currently writing my thesis on **realized volatility forecasting** with high-fre
 *(coming soon)*
 
 ## Get in touch
-[LinkedIn](www.linkedin.com/in/marco-fumagalli-link02)
+[LinkedIn](https://www.linkedin.com/in/marco-fumagalli-link02)

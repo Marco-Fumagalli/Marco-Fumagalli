@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋
 
-MSc student in Management Engineering (Financial Engineering track) at Politecnico di Milano. I work at the intersection of **statistics, econometrics, and quantitative finance** — turning data into models that explain risk and forecast uncertainty.
+MSc student in Management Engineering (Financial Engineering track) at Politecnico di Milano. I work at the intersection of **statistics, econometrics and quantitative finance** .
 
 Currently writing my thesis on **realized volatility forecasting** with high-frequency data, applied to tail-risk measures (VaR / Expected Shortfall). Building my technical foundation in **Python** to support this work and beyond.
 
